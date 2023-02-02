@@ -27,7 +27,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -61,7 +61,7 @@ p {
   border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
-  padding: 15px 30px;
+  padding: 18px 34px;
 }
 
 .btn-freebie {
@@ -164,7 +164,7 @@ footer .social-links a:hover {
     font-size: 44px;
   }
 
-  h4 {
+  h3 {
     font-size: 26px;
   }
   .hero {
